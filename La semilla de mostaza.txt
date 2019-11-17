@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>Tienda en línea. - Automatización y control.</TITLE>
+</HEAD>
+
+<BODY background="La semilla de mostaza.jpg">
+<CENTER><H1>TIENDA DE VENTA SOFTWARE Y SISTEMAS DE CONTROL</CENTER>
+<HR>
+Página de venta de programas de cómputo <BR>
+<P> La semilla de mostaza, empresa de programación y automatización de sistemas, le presenta el
+siguiente correo electrónico dónde puede enviar las especificaciones del sistema que desea 
+automatizar aiar.2014@outlook.com
+</P>
+
+<IMG SRC="La semilla de mostaza.jpg"></IMG>
+
+</BODY>
+
+</HTML>
+

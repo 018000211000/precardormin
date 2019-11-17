@@ -1,0 +1,17 @@
+<HTML>
+
+<HEAD>
+<TITLE>Ejemplo 1 - Mi Segunda página Web</TITLE>
+</HEAD>
+
+<BODY>
+<CENTER><H1>TIENDA DE VENTA SOFTWARE Y SISTEMAS DE CONTROL</CENTER>
+<HR>
+Página de venta de programas de cómputo <BR>
+
+
+
+</BODY>
+
+</HTML>
+
